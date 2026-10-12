@@ -82,3 +82,10 @@ How to use Javascript
 2. external 
    a. create separate .js file
    b. include that javascript file into html file using <script scr=''></script>
+
+
+Assignments
+===========
+1. create a dropdown of country names
+2. display list of countrynames using <ul> & <li>
+3. Create a Student table with few rows and columns
