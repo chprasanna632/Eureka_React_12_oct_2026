@@ -14,3 +14,71 @@ Tools & Softwares
       git clone https://github.com/sanjaysamantra1/Eureka_React_12_oct_2026
    c. To get the latest content from github
       git pull
+
+
+
+Web Development
+===============
+-Developing Websites (https://www.amazon.in/)
+ 
+
+1. FrontEnd : User Interface (Look & Feel) 
+              Presentation layer
+         HTML : Content (button, div, paragraph, image, table, list, form)
+         CSS :  Styling (Border, background, color, margin, padding)
+         Bootstrap : CSS Library (pre-defined css classes)
+         Javascript : Behaviour of a webpage, dynamic content, Interactivity
+         React/Angular/Vue : Javascript frameworks (RAD, CLI, build , deploy)
+
+2. BackEnd : Business Layer, Build REST APIs (https://fakestoreapi.com/products)
+            Java / .net / Python / PHP / Go / NodeJS
+
+3. DataBase :  Holds the Application data 
+
+
+
+ProductList Page
+================
+1. Create an HTML file ( product_list.html )
+
+2. ! ( Emmet / shortcut ) add boilerplate code
+   https://docs.emmet.io/cheat-sheet/
+
+3. Add HTML,css,Bootstrap,javascript code in product_list.html
+
+4. To Open/Run HTML File in Browser 
+   a. install vscode extension ( open in browser / live server )
+   b. alt+b  / alt+shift+b
+   
+
+
+CSS
+====
+1. inline CSS 
+   style attribute, not re-usable , repeat in each element
+2. internal CSS
+   <style></style>
+3. external CSS
+   a. create a separate .css file
+   b. link that css file to html file using <link rel>
+
+
+
+Bootstrap
+=========
+-CSS Library
+-Maintained by Twitter
+-Bootstrap 5 is the latest version
+-Official doc link:
+  https://getbootstrap.com
+
+How to use Bootstrap in HTML file: (add CDN link)
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+How to use Javascript
+=====================
+1. internal  <script></script>
+2. external 
+   a. create separate .js file
+   b. include that javascript file into html file using <script scr=''></script>
