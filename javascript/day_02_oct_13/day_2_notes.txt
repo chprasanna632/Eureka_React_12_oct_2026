@@ -1,0 +1,61 @@
+How to Run Javascript Code
+==========================
+1. Browser : 
+    -FrontEnd Development
+    -create a .js file write javascript code 
+    -include that .js file into HTML file using <script></script>
+
+2. NodeJS : 
+    -BackEnd Development
+    -create a .js file write javascript code 
+    -Run the javascript file in nodejs using below command
+      node <filename>.js
+
+Note: javascript code that runs on browser will not work on nodejs and vice versa
+
+Modules (Browser & Nodejs): console , Object , Array , Math, JSON
+Browser Specific : document, window, storage
+NodeJS Specific : filesystem, OS, URL, interacting with DB 
+
+
+
+
+Most Commonly Used Javascript Objects
+=====================================
+console : log()  warn() error() table() time() timeEnd() 
+document : write()  getElementById()  querySelector()
+window :  alert()  prompt() confirm() 
+Math :  max() min() sqrt() cbrt()
+Array : push() pop() shift() filter() map()
+Object :  assign() gropuBy()
+JSON :  stringify() parse()
+
+
+window methods
+==============
+alert() : Display Informative Message
+          Message + Ok
+          
+confirm() : User Confirmation
+            Message + Ok(true)   cancel(false)
+
+prompt() : To Collect User Input
+           InputBox + Message + Ok,cancel
+
+
+Note: window object methods can be used directly
+      window.alert() // correct
+      alert()   // correct
+
+
+
+Assignments
+============
+1. Learn HTML input types
+   https://www.w3schools.com/html/html_form_input_types.asp
+
+2. Learn HTML input attributes
+   https://www.w3schools.com/html/html_form_attributes.asp
+
+3. Create a form as mentioned in this link
+   
