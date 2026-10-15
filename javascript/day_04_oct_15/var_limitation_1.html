@@ -1,0 +1,31 @@
+<script>
+    var a = 10;
+
+    function f1() {
+        var b = 20;
+        console.log('a in F1...', a)
+        console.log('b in F1...', b)
+    }
+    f1()
+
+    function f2() {
+        console.log('a in F1...', a)
+        // console.log('b in F1...', b) // b is not defined
+    }
+    f2()
+
+
+    function f3() {
+        if (true) {
+            var courseName = 'ReactJS';  // its not a block scope, its function scoped
+            let trainerName = 'Sanjay';
+            console.log('Inside Block courseName: ', courseName)
+            console.log('Inside Block trainerName: ', trainerName)
+        }
+        console.log('Out side Block courseName: ', courseName);
+        console.log('Out side Block trainerName: ', trainerName); // trainerName is not defined
+        // ideally courseName should not be accessible outside the block but it is 
+        // this is the limitation of var
+    }
+    f3();
+</script>

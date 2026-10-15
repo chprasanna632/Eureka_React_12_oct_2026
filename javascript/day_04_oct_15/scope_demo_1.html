@@ -1,0 +1,29 @@
+<script>
+    var a = 10;
+    let b = 20;
+    const c = 30;
+
+    function f1() {
+        var d = 40;  // only f1 can access d, f2 cann't access d
+        e = 50;      // both f1 & f2 can access 'e'
+        console.log('f1 starts...')
+        console.log(`a: ${a}`)
+        console.log(`b: ${b}`)
+        console.log(`c: ${c}`)
+        console.log(`d: ${d}`)
+        console.log(`e: ${e}`)
+        console.log('f1 ends...')
+    }
+    f1()
+
+    function f2() {
+        console.log('f1 starts...')
+        console.log(`a: ${a}`)
+        console.log(`b: ${b}`)
+        console.log(`c: ${c}`)
+        // console.log(`d: ${d}`); // d is not defined
+        console.log(`e: ${e}`)
+        console.log('f1 ends...')
+    }
+    f2()
+</script>

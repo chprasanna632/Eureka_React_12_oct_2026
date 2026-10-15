@@ -1,0 +1,13 @@
+<script>
+    for (var i = 1; i <= 3; i++) { // scope of i is not block scoped, its global
+        console.log(`inside for loop i value: ${i}`)
+    }
+    console.log(`outside for loop i value: ${i}`)
+
+    // ===============================
+
+    for (let x = 1; x <= 3; x++) { // scope of x is block
+        console.log(`inside for loop x value: ${x}`)
+    }
+    console.log(`outside for loop x value: ${x}`); //  x is not defined
+</script>

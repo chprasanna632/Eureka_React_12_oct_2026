@@ -1,0 +1,16 @@
+<script>
+    var a = 10;
+    let b = 20;
+    const c = 30;
+    console.log(`a: ${a}`); // 10
+    console.log(`b: ${b}`); // 20
+    console.log(`c: ${c}`); // 30
+
+    // a = 100;   // re-initialization
+
+    var a = 100; // variable re-declaration, shadowing the previous variable
+    console.log(`a: ${a}`); // 100
+
+    b = 25;      // re-initialization is allowed
+    let b = 200; // Cannot redeclare b which is already declared
+</script>

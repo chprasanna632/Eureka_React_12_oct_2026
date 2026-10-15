@@ -1,0 +1,17 @@
+<script>
+    console.log(`a: ${a}`);  // undefined
+    console.log(`b: ${b}`);  // Cannot access 'b' before initialization
+    console.log(`c: ${c}`);  // Cannot access 'c' before initialization
+
+    var a = 10;
+    let b = 20;
+    const c = 30;
+
+    console.log(`a: ${a}`); // 10
+    console.log(`b: ${b}`); // 20
+    console.log(`c: ${c}`); // 30
+
+    // Hoisting : we are able to access a variable in line-2 even if its declared in line-6
+    // TDZ : we are not able to access b variable in line-3 which is declared at  line-7
+    // TDZ : we are not able to access c variable in line-4 which is declared at  line-8
+</script>
