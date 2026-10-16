@@ -1,0 +1,43 @@
+How Javascript Works
+====================
+-When a JavaScript program runs, 1 Global Execution Context (anonymous) is created.
+-For every function call, a new Function Execution Context (FEC) is created.
+-Execution Context = the environment in which code executes.
+-Each execution context has two phases: 
+	1. creation phase. 
+        a. Memory is allocated for variables and functions; 
+        b. 'var' variables are initialized with undefined, let/const will have no value assigned
+	2. execution phase. 
+        a. Code is executed line by line; 
+        b. variables receive their assigned values and functions are invoked
+
+
+
+functions
+==========
+1. pre-defined : console.log(), window.alert(), Math.max()
+2. User defined: we write , we use
+
+
+1. Function Declaration
+2. Function Expression
+3. Arrow Function   (2015 - ECMAScript 6)
+
+
+Function Declaration   vs  Function Expression
+=============================================
+1. Function Declarations are named, Function Expressions are anonymous
+2. Function Declarations are hoisted, Function Expressions are not hoisted
+
+
+
+this keyword
+============
+-'this' is a keyword in Javascript
+-'this' refers to the current object
+
+
+Arrow Function Limitations
+==========================
+1. Arrow functions shouldn't be used as object methods.
+2. if we expect 'this' value to be dynamic, avoid using arrow function
