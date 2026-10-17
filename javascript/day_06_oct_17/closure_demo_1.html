@@ -1,0 +1,17 @@
+<script>
+    var a = 10;   // Global Scope
+    let b = 20;   // Script Scope
+    const c = 30; // Script Scope
+
+    function f1() {
+        let d = 40;  // Closure Scope
+
+        function f2() {
+            console.log(a, b, c,d);
+        }
+        f2();
+        console.dir(f2)
+    }
+    f1();
+    console.dir(f1)
+</script>
