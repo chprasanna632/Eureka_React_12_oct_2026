@@ -1,0 +1,25 @@
+Arrow Function 
+===============
+-anonymous
+-not hoisted
+-reduced code
+-function keyword is not used
+-function body is optional (1 line of code)
+-return is optional (1 line of code)
+
+
+HigherOrder Function: A function that takes another functions as argument.
+CallBack Function : A Function that's passed as argument to another function
+
+-In this example map() is HigherOrder & incrementBy5 is callback function
+
+    function incrementBy5(ele){
+        return ele+5;
+    }
+    let result1 = arr.map(incrementBy5);
+
+
+How 'this' works with Arrow Function 
+=====================================
+-in Arrow function 'this' value is decided from the Lexical Scope
+-Lexical Scope : the scope where arrow function is written
