@@ -1,0 +1,14 @@
+<script>
+    let str = "Hello World";
+    let vowels_count = 0;
+    let consonants_count = 0;
+
+    for (char of str) {
+        if ('aeiou'.includes(char)) {
+            vowels_count++;
+        } else {
+            consonants_count++;
+        }
+    }
+    console.log(`vowels_count:${vowels_count}  & consonants_count:${consonants_count}`)
+</script>
