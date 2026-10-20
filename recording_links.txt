@@ -29,3 +29,7 @@ Passcode: 4vcC&Gq&
 day_08_oct_19:
 https://zoom.us/rec/share/dQsmGdYx1jWvsaayLPD3w-bIeAwKrvjTQkZmb3z6LObzgywm6qmO-C3v-ciG65FC.da0P13ViaxLu9hKH?from=hub
 Passcode: c$9STvf5
+
+day_09_oct_20:
+https://zoom.us/rec/share/lJB6vSdeM5YAIX9HuY2R1aEW59pKOAKWRDG--KUkJPrTqMT8g1NIXWQqCZP5iu_q.cAfh1ZtMnz8vzw4u?from=hub
+Passcode: 4KQst^gz
