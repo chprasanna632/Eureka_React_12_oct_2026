@@ -33,3 +33,7 @@ Passcode: c$9STvf5
 day_09_oct_20:
 https://zoom.us/rec/share/lJB6vSdeM5YAIX9HuY2R1aEW59pKOAKWRDG--KUkJPrTqMT8g1NIXWQqCZP5iu_q.cAfh1ZtMnz8vzw4u?from=hub
 Passcode: 4KQst^gz
+
+day_10_oct_21:
+https://zoom.us/rec/share/BLUuUnsMbYrO1v0DiclKc1YM1KjoCOTQlBZ3AI72wZPgq1LFKXZ94d3fHRPC8lOp.frY_t3PGEt4_NBSl?from=hub
+Passcode: vKe&wt1u
