@@ -41,3 +41,7 @@ Passcode: vKe&wt1u
 day_11_oct_22:
 https://zoom.us/rec/share/q8NnKwuuJTDV4R7h6wcr3SEGo_HoVfXn5m5LkfpiwwUTsKxzbzG-fDQwUh4SmeAM.eh7Hk5YP8clL8aXS?from=hub
 Passcode: .*m%K9&R
+
+day_12_oct_23:
+https://zoom.us/rec/share/K_Bnps4837ZZbooF2l6qu9r_kZrAE4rFYVkzFtuU-dSym5eSDihnhGmHpejkweSr.-5BwcKHAlc_y7S-C?from=hub
+Passcode: @85Nfax#

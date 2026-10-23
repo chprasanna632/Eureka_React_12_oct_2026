@@ -1,0 +1,14 @@
+// ES_6
+class Student {
+    constructor(roll, name, course, branch) {   // Constructor 
+        this.roll = roll;
+        this.name = name;
+        this.course = course;
+        this.branch = branch;
+    }
+}
+let std1 = new Student(101, 'Sathwik', 'ReactJS', 'Tenneesee');
+let std2 = new Student(102, 'Amar', 'Angular', 'Kansas');
+
+console.log('Student-1: ', std1)
+console.log('Student-2: ', std2)
