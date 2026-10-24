@@ -45,3 +45,7 @@ Passcode: .*m%K9&R
 day_12_oct_23:
 https://zoom.us/rec/share/K_Bnps4837ZZbooF2l6qu9r_kZrAE4rFYVkzFtuU-dSym5eSDihnhGmHpejkweSr.-5BwcKHAlc_y7S-C?from=hub
 Passcode: @85Nfax#
+
+day_13_oct_24:
+https://zoom.us/rec/share/vX4qDucRZAN2YjOG33eLXxFFL-Bs_Ww3se4y7_5E7Z9_iZZcycdtkh2BJYBIYYPf.8_kceTHc6gRRZy4q?from=hub
+Passcode: h#5jHR.g
