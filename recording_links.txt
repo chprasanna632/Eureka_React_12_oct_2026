@@ -49,3 +49,7 @@ Passcode: @85Nfax#
 day_13_oct_24:
 https://zoom.us/rec/share/vX4qDucRZAN2YjOG33eLXxFFL-Bs_Ww3se4y7_5E7Z9_iZZcycdtkh2BJYBIYYPf.8_kceTHc6gRRZy4q?from=hub
 Passcode: h#5jHR.g
+
+React_day_1_oct_29:
+https://zoom.us/rec/share/RDtrjG7logEMu6wJZIwxMyn4ObEaow5WNuE7btxUiPj3V3ubgaKVDCZ_UQKlKFJs._hYFg2WvRuR9pUmw 
+Passcode: 7k$GM^16
